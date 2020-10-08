@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (5.2.2)
+  - Localize-Swift (3.1.0)
+  - RxAlamofire (5.6.0):
+    - RxAlamofire/Core (= 5.6.0)
+  - RxAlamofire/Core (5.6.0):
+    - Alamofire (~> 5.1)
+    - RxSwift (~> 5.1)
+  - RxCocoa (5.1.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.1.1)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Localize-Swift (= 3.1.0)
+  - RxAlamofire (= 5.6.0)
+  - RxCocoa (= 5.1.1)
+  - RxSwift (= 5.1.1)
+  - SDWebImage (= 5.8.4)
+  - SVProgressHUD (= 2.2.5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Localize-Swift
+    - RxAlamofire
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  Localize-Swift: 4bed4f0ccac8be2ec3517ee359da80ba2adb0fae
+  RxAlamofire: f34ddbab56fa2a36f99737f4d4ecc22288a1384f
+  RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: bb06b25a7c2493032f1334bc6d209861d5953024
+
+COCOAPODS: 1.9.3
